@@ -1,4 +1,4 @@
-# ensorflow_DeepLearningZeroToAll
+# Tensorflow_DeepLearningZeroToAll
 
 김성훈 교수님의 딥러닝 유튜브 강좌
 
